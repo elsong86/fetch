@@ -5,8 +5,8 @@
 This iOS app displays a collection of recipes fetched from a remote API. It's built using SwiftUI and follows modern iOS development practices with Swift Concurrency (async/await).
 
 <p align="center">
-  <img src="fetch_assessment/Screenshots/results1.png" width="300" alt="Recipe List Screen" style="margin-right: 10px;"/>
-  <img src="fetch_assessment/Screenshots/details1.png" width="300" alt="Recipe Detail Screen"/>
+  <img src="fetchTakeHome/Screenshots/results1.png" width="300" alt="Recipe List Screen" style="margin-right: 10px;"/>
+  <img src="fetchTakeHome/Screenshots/details1.png" width="300" alt="Recipe Detail Screen"/>
 </p>
 
 ### Key Features:
